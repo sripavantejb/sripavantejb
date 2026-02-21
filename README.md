@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Full-stack development projects and strengthening my DSA skills.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, innovative web apps, and tech communities.<br><br>🤝 I’m looking for help with<br>Advanced system design and scalable backend architecture.<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, backend development, and cloud fundamentals.<br><br>💬 Ask me about<br>Web development, problem solving, internships, and tech career growth.<br><br>⚡ Fun fact<br>I enjoy turning ideas into real, working products and continuously optimizing them.
+# 🚀 About Me
+
+Co-Founder at **EditcoMedia**, building impactful digital experiences through content, branding, and technology.
+
+I am a Computer Science student specializing in **Data Science and Machine Learning**, currently working as a **Software Engineer Intern at NxtWave**. I have hands-on experience in **MERN stack development, Python, and scalable web applications**, with multiple live projects deployed.
+
+As **President of Media Council NIAT** and an **OpenAI x NxtWave Buildathon Finalist**, I actively lead teams, build communities, and drive innovation. With **5,000+ followers on LinkedIn**, I consistently share insights on technology, development, and continuous learning.
+
+Passionate about bridging creativity and engineering to create meaningful, growth-driven solutions.
 
 
 ## 🌐 Socials:
