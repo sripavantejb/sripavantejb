@@ -1,4 +1,4 @@
-#About Me
+# About Me
 
 Co-Founder at **EditcoMedia**, building impactful digital experiences through content, branding, and technology.
 
